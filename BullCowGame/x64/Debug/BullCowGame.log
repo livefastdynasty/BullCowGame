@@ -1,0 +1,7 @@
+﻿  main.cpp
+  FBullCowGame.cpp
+d:\unrealcourse\bullcowgame\bullcowgame\fbullcowgame.cpp(30): warning C4267: 'initializing': conversion from 'size_t' to 'int32', possible loss of data
+d:\unrealcourse\bullcowgame\bullcowgame\fbullcowgame.cpp(125): warning C4267: 'return': conversion from 'size_t' to 'int32', possible loss of data
+  Generating Code...
+  BullCowGame.vcxproj -> D:\UnrealCourse\BullCowGame\x64\Debug\BullCowGame.exe
+  BullCowGame.vcxproj -> D:\UnrealCourse\BullCowGame\x64\Debug\BullCowGame.pdb (Partial PDB)
